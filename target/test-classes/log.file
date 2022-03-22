@@ -1,0 +1,11 @@
+2022-03-23 00:00:21,874 - org.openqa.selenium.internal.Lock - INFO - test pour verifier l'affichage du log 
+2022-03-23 00:00:26,849 - org.openqa.selenium.internal.Lock - INFO - Cliquer sur le bouton USER 
+2022-03-23 00:00:27,228 - org.openqa.selenium.internal.Lock - INFO - Click dans le champ User_name 
+2022-03-23 00:00:27,926 - org.openqa.selenium.internal.Lock - INFO - Vider le champs User_Name 
+2022-03-23 00:00:28,140 - org.openqa.selenium.internal.Lock - INFO - Entrer le User_Name = Elie_test
+2022-03-23 00:00:28,397 - org.openqa.selenium.internal.Lock - INFO - Vider le champs Password 
+2022-03-23 00:00:28,526 - org.openqa.selenium.internal.Lock - INFO - Entrer le Password = Azerty1
+2022-03-23 00:00:28,789 - org.openqa.selenium.internal.Lock - INFO - Click bouton SIGN_IN
+2022-03-23 00:00:29,945 - org.openqa.selenium.internal.Lock - INFO - Verifier que le User Elie_test est connecté
+2022-03-23 00:00:30,011 - org.openqa.selenium.internal.Lock - INFO - Le User est bien connecté
+2022-03-23 00:00:30,012 - org.openqa.selenium.internal.Lock - INFO - Consultation de la liste des dernières commandes/orders (My orders à partir de votre compte)

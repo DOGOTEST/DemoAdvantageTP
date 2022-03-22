@@ -1,0 +1,5 @@
+2022-03-08 22:03:33,270 - com.advantageonlineshopping.AdvantageOnlineShoppingTest - INFO - test pour verifier l'affichage du log 
+2022-03-08 22:03:35,897 - com.advantageonlineshopping.AdvantageOnlineShoppingTest - INFO - je clique sur le champs user name
+2022-03-08 22:03:35,930 - com.advantageonlineshopping.AdvantageOnlineShoppingTest - INFO - j'efface le contenu  user name
+2022-03-08 22:03:35,981 - com.advantageonlineshopping.AdvantageOnlineShoppingTest - INFO - je tape le Nom ELie
+2022-03-08 22:03:36,086 - com.advantageonlineshopping.AdvantageOnlineShoppingTest - INFO - test pour verifier l'affichage du log 
